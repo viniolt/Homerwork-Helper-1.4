@@ -22,7 +22,7 @@ Set the GPT model you want to use (MODEL).
 
 Choose the file (image, PDF, or DOCX) through the file selection window.
 
-Run the script to get a detailed response based on your query, utilizing the text and/or image provided.
+Run the script to get a detailed response based on your query, utilizing the text and/or image provided. ($ python3 proto.py)
 
 
 # Upcoming Features:
@@ -52,7 +52,7 @@ Insira sua chave da API do OpenAI OpenAI(api_key='').
 
 Selecione o arquivo (imagem, PDF ou DOCX) através da janela de seleção de arquivos.
 
-Execute o script para obter uma resposta detalhada com base na sua consulta, utilizando o texto e/ou a imagem fornecida.
+Execute o script para obter uma resposta detalhada com base na sua consulta, utilizando o texto e/ou a imagem fornecida. ($ python3 proto.py)
 
 # Funcionalidades futuras:
 Suporte a Múltiplos Documentos: Planejamento para lidar com múltiplos arquivos em uma única sessão para assistência mais abrangente.
