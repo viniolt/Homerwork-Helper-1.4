@@ -10,6 +10,12 @@ This repository contains an example of using the ChatGPT API with support for im
 **File Selection Interface:** A window allows you to choose files directly from your computer, making the process easier and more user-friendly.
 
 # How to Use:
+Install the latest Python version (3.x)
+
+[Make sure you have pip installed](https://phoenixnap.com/kb/install-pip-windows)
+
+Install the required libraries with $ pip install pypdf2 openai python-docx  
+
 Enter your OpenAI API key OpenAI(api_key='').
 
 Set the GPT model you want to use (MODEL).
@@ -36,6 +42,11 @@ Este repositório contém um exemplo de uso da API do ChatGPT com suporte para e
 **Interface de Seleção de Arquivos:** Uma janela permite escolher arquivos diretamente do seu computador, facilitando o processo.
 
 # Como Usar:
+Instale a última versão disponível do Python (3.x)
+
+[Certifique-se de ter o pip instalado](https://phoenixnap.com/kb/install-pip-windows)
+
+Instale as bibliotecas requeridas com $ pip install pypdf2 openai python-docx  
 
 Insira sua chave da API do OpenAI OpenAI(api_key='').
 
