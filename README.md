@@ -14,15 +14,13 @@ Install the latest Python version (3.x)
 
 [Make sure you have pip installed](https://phoenixnap.com/kb/install-pip-windows)
 
-Install the required libraries with $ pip install pypdf2 openai python-docx  
+Install the required libraries with `pip install pypdf2 openai python-docx`
 
-Enter your OpenAI API key OpenAI(api_key='').
-
-Set the GPT model you want to use (MODEL).
+Enter your OpenAI API key `OpenAI(api_key='')`.
 
 Choose the file (image, PDF, or DOCX) through the file selection window.
 
-Run the script to get a detailed response based on your query, utilizing the text and/or image provided. ($ python3 proto.py)
+Run the script to get a detailed response based on your query, utilizing the text and/or image provided. `python3 proto.py`
 
 
 # Upcoming Features:
@@ -46,13 +44,13 @@ Instale a última versão disponível do Python (3.x)
 
 [Certifique-se de ter o pip instalado](https://phoenixnap.com/kb/install-pip-windows)
 
-Instale as bibliotecas requeridas com $ pip install pypdf2 openai python-docx  
+Instale as bibliotecas requeridas com `pip install pypdf2 openai python-docx`
 
-Insira sua chave da API do OpenAI OpenAI(api_key='').
+Insira sua chave da API do OpenAI `OpenAI(api_key='')`.
 
 Selecione o arquivo (imagem, PDF ou DOCX) através da janela de seleção de arquivos.
 
-Execute o script para obter uma resposta detalhada com base na sua consulta, utilizando o texto e/ou a imagem fornecida. ($ python3 proto.py)
+Execute o script para obter uma resposta detalhada com base na sua consulta, utilizando o texto e/ou a imagem fornecida. `python3 proto.py`
 
 # Funcionalidades futuras:
 Suporte a Múltiplos Documentos: Planejamento para lidar com múltiplos arquivos em uma única sessão para assistência mais abrangente.
